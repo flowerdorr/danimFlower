@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.review_write_bg{
+    background-color: rgb(224, 224, 224);
+
+}
+
+.input_title{
+    width:600px;
+}
+
+.select_style{
+    width:300px;
+}
+
+.list_button{
+    background-color: rgb(224, 224, 224);
+}
